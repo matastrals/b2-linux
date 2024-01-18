@@ -1,1 +1,0 @@
-{"backup":{"files":{"path":""},"log":{"path":"/var/log/backup/"},"directory":{"ssh":{"active": false,"ip":"","port":"","username":"","password":""},"path":""},"limit":{"backups": 10}}}
