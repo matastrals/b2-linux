@@ -1,9 +1,0 @@
-[Unit]
-Description=Time before the service backup.service
-
-[Timer]
-OnUnitActiveSec=600s
-Unit=backup.service
-
-[Install]
-WantedBy=timers.target
